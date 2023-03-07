@@ -115,7 +115,9 @@
         "Interactive Dog Toy",
         "This interactive dog toy is designed to keep your dog entertained for hours. It features a treat dispenser and a maze that your dog has to navigate to get to the treats!",
         19.99,
-        "https://thumbs.dreamstime.com/z/shetland-sheepdog-dog-toy-shetland-sheepdog-dog-toy-104449745.jpg",
+        // "https://thumbs.dreamstime.com/z/shetland-sheepdog-dog-toy-shetland-sheepdog-dog-toy-104449745.jpg",
+        // fake link
+        "https://thumbs.dreamstime.com/z/shetland-sheepdog-dog-toy-shetland-sheepdog-dog-toy-1044497455.jpg",
         new Category('dog'),
         50,
         "10x10x10 cm",

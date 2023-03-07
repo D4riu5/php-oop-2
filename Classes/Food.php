@@ -1,10 +1,12 @@
 <?php 
     require_once __DIR__ . '/Product.php';
+    require_once __DIR__ . '/../Traits/Type.php';
 
     class Food extends Product{
         public $kiloCalories;
         public $weight;
-        public $type;
+        
+        use Type;
 
         public function __construct(string $_name, string $_description, float $_price, string $_imgUrl, Category $_category, int $_quantity, int $_kiloCalories, float $_weight, string $_type)
         {
