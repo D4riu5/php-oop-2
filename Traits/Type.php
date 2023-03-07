@@ -1,9 +1,9 @@
 <?php 
 
-trait Type {
+    trait Type {
 
-    public $type;
+        public $type;
 
-};
+    };
 
 ?>
